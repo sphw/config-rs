@@ -1,4 +1,5 @@
 #![cfg(feature = "toml")]
+#![allow(dead_code)]
 
 extern crate config;
 

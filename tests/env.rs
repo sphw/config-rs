@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 extern crate config;
 extern crate serde_derive;
 
